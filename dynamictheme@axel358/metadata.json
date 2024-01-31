@@ -1,0 +1,9 @@
+{
+    "uuid": "dynamictheme@axel358",
+    "name": "Dynamic Theme",
+    "description": "Switch themes dynamically based on time of day",
+    "cinnamon-version": [
+      "5.4",
+      "5.6"
+    ]
+}

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+
+<svg
+   width="51.2pt"
+   height="51.2pt"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="icon.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:export-filename="/home/axel/Downloads/cu.axel.USub.png"
+   inkscape:export-xdpi="89.999992"
+   inkscape:export-ydpi="89.999992"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="7.6025389"
+     inkscape:cx="26.570071"
+     inkscape:cy="34.133334"
+     inkscape:window-width="1366"
+     inkscape:window-height="692"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer0" />
+  <defs
+     id="defs2" />
+  <g
+     id="layer0">
+    <ellipse
+       id="circle2"
+       transform="matrix(3.7796,0,0,3.7796,5.00004,5.00004)"
+       cx="5.71488pt"
+       cy="5.71488pt"
+       fill="#e01b24"
+       style="fill:#333333;fill-opacity:1"
+       inkscape:export-filename="/home/axel/Downloads/circle2.png"
+       inkscape:export-xdpi="106.66685"
+       inkscape:export-ydpi="106.66685"
+       rx="7.619854"
+       ry="5.71488pt" />
+    <path
+       d="m 31.111428,16.482212 c -8.435316,1.440908 -14.909393,8.805548 -14.909393,17.651122 0,9.876224 8.06508,17.931299 17.941304,17.931299 4.482825,0 8.575403,-1.671054 11.72739,-4.41278 -9.666092,-2.511584 -16.860624,-11.317132 -16.860624,-21.753709 0,-3.362118 0.770485,-6.544122 2.101323,-9.415932 z m 0,0"
+       id="path2"
+       style="fill:#f2f2f2;stroke-width:2.56161" />
+    <path
+       d="m 34.143339,16.202035 c -1.040656,0 -2.041286,0.11007 -3.031911,0.280177 -1.330838,2.87181 -2.101323,6.053814 -2.101323,9.415932 0,10.436577 7.194532,19.242125 16.860624,21.753709 3.782382,-3.292074 6.193903,-8.12512 6.193903,-13.518519 0,-9.876224 -8.055077,-17.931299 -17.921293,-17.931299 z m 0,0"
+       fill-opacity="0.35"
+       id="path4"
+       style="stroke-width:2.56161;fill:#e0c600;fill-opacity:1" />
+  </g>
+</svg>

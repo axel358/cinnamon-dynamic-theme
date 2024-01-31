@@ -1,0 +1,115 @@
+{
+  "layout" : {
+  "type": "layout",
+  "pages" : ["general-page", "light-page", "dark-page"],
+  "general-page" : {
+    "type" : "page",
+    "title" : "General",
+    "sections" : ["schedule", "items"]
+  },
+  "light-page" : {
+    "type" : "page",
+    "title" : "Light mode",
+    "sections" : ["light-settings"]
+  },
+  "dark-page" : {
+    "type" : "page",
+    "title" : "Dark mode",
+    "sections" : ["dark-settings"]
+  },
+  "schedule" : {
+    "type" : "section",
+    "title" : "Schedule",
+    "keys" : ["light-time", "dark-time"]
+  },
+  "items" : {
+    "type" : "section",
+    "title" : "Items to change",
+    "keys" : ["change-color-scheme", "change-gtk-theme", "change-cinnamon-theme", "change-cursor-theme", "change-wallpaper"]
+  },
+  "light-settings" : {
+    "type" : "section",
+    "title" : "Settings",
+    "keys" : ["light-gtk-theme", "light-cursor-theme", "light-wallpaper"]
+  },
+  "dark-settings" : {
+    "type" : "section",
+    "title" : "Settings",
+    "keys" : ["dark-gtk-theme", "dark-cursor-theme", "dark-wallpaper"]
+  }},
+  "light-time" : {
+      "type" : "timechooser",
+      "description" : "Switch to light mode at",
+      "default" : {
+          "h" : 6,
+          "m" : 0,
+          "s" : 0
+      }
+  },
+  "dark-time" : {
+      "type" : "timechooser",
+      "description" : "Switch to dark mode at",
+      "default" : {
+          "h" : 18,
+          "m" : 0,
+          "s" : 0
+      }
+  },
+  "change-color-scheme" : {
+      "type" : "switch",
+      "default" : true,
+      "description": "Color scheme"
+  },
+  "change-gtk-theme" : {
+      "type" : "switch",
+      "default" : true,
+      "description": "Gtk theme"
+  },
+  "change-cinnamon-theme" : {
+      "type" : "switch",
+      "default" : true,
+      "description": "Cinnamon theme"
+  },
+  "change-cursor-theme" : {
+      "type" : "switch",
+      "default" : true,
+      "description": "Cursor theme"
+  },
+  "change-wallpaper" : {
+      "type" : "switch",
+      "default" : true,
+      "description": "Wallpaper"
+  },
+  "light-gtk-theme" : {
+      "type" : "entry",
+      "description" : "Gtk theme",
+      "default": ""
+  },
+  "light-cursor-theme" : {
+      "type" : "entry",
+      "description" : "Cursor theme",
+      "default": ""
+  },
+  "light-wallpaper" : {
+      "type" : "filechooser",
+      "description" : "Wallpaper",
+      "default" : "~/Pictures",
+      "select-dir" : false
+  },
+  "dark-gtk-theme" : {
+      "type" : "entry",
+      "description" : "Gtk theme",
+      "default": ""
+  },
+  "dark-cursor-theme" : {
+      "type" : "entry",
+      "description" : "Cursor theme",
+      "default": ""
+  },
+  "dark-wallpaper" : {
+      "type" : "filechooser",
+      "description" : "Wallpaper",
+      "default" : "~/Pictures",
+      "select-dir" : false
+  }
+}
